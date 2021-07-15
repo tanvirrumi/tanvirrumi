@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @tanvirrumi
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...learning any creative knowledge
 - 🌱 I’m currently learning ...3D Production Pipeline work
 - 💞️ I’m looking to collaborate on ...other content creators
-- 📫 How to reach me ...https://www.facebook.com/StsRumi.Animation.Drawing
+- 📫 My fb page ...https://www.facebook.com/StsRumi.Animation.Drawing
+- 📫 How to reach me ...vertexanimation070@gmail.com
 
 <!---
 tanvirrumi/tanvirrumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
